@@ -13,8 +13,7 @@ Input Label:
 
 But after seeing that it is affecting the regressor badly because of its high variance and the amount of information it is carrying. 
 
-
-
+<img src = "https://miro.medium.com/max/1250/1*Q0PrzYheyZTU4E0Og5AW4A.png" width = 600>
 
 ### Model 
 
@@ -26,6 +25,9 @@ But after seeing that it is affecting the regressor badly because of its high va
 
 #### 2. Random Forest Regressor 
 
-    To combat the overfitting but actually this may increase the accuracy which is already overfitted. 
+To combat the overfitting but actually this may increase the accuracy which is already overfitted. 
+
+With Random Forest Regressor we again get the score of 1.0. 
+
 
 
