@@ -26,6 +26,9 @@ As simple it may look, but this is my favourite visualisation because it shows t
 
 2. The disease category segregation based on the symbol adjacent to the name of the disease and the color of the symbol helps in knowing the type of the dieases or where it affects.
 3. Proper legend and documentation with floating description for each and every disease.
+4. Categorial encoding in`x_axis` variables is really interesting, gives a very humanly feel to the data. However, it is present for `y_axis` too but we are more tuned to see values in `y_axis` rather than `x_axis`. 
+5. 
+6. 
 
 
 **Suggestions**
